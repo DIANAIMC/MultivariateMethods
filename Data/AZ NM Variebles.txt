@@ -1,0 +1,161 @@
+ 
+Data written to D:\MultivariateMethods\AZ NM Immigration SPSS data 20160317.csv. 
+158 variables and 1903 cases written. 
+Variable: status             Type: Number   Width:   3   Dec: 0 
+Variable: respid             Type: String   Width:   6 
+Variable: intid              Type: String   Width:   4 
+Variable: getspec            Type: Number   Width:   1   Dec: 0 
+Variable: indexnum           Type: Number   Width:  10   Dec: 0 
+Variable: getspecfind        Type: String   Width:   2 
+Variable: getnum             Type: String   Width:  10 
+Variable: phnum              Type: String   Width:  10 
+Variable: areacod            Type: String   Width:   3 
+Variable: prefix             Type: String   Width:   3 
+Variable: numb               Type: String   Width:   4 
+Variable: stdy               Type: String   Width:   8 
+Variable: samcounty          Type: String   Width:  30 
+Variable: ssource            Type: String   Width:   1 
+Variable: samsource          Type: Number   Width:   1   Dec: 0 
+Variable: ssamstate          Type: String   Width:   1 
+Variable: samstate           Type: Number   Width:   1   Dec: 0 
+Variable: phonenumber        Type: String   Width:  10 
+Variable: fips               Type: String   Width:   5 
+Variable: adi                Type: String   Width:   3 
+Variable: zip                Type: String   Width:   5 
+Variable: msa                Type: String   Width:   4 
+Variable: jobnumb            Type: String   Width:  10 
+Variable: account            Type: String   Width:   8 
+Variable: tz                 Type: Number   Width:   2   Dec: 0 
+Variable: area               Type: String   Width:   3 
+Variable: exch               Type: String   Width:   3 
+Variable: line               Type: String   Width:   4 
+Variable: tz2                Type: Number   Width:   2   Dec: 0 
+Variable: topstate           Type: Number   Width:   1   Dec: 0 
+Variable: topsrc             Type: Number   Width:   1   Dec: 0 
+Variable: dialstat           Type: Number   Width:   3   Dec: 0 
+Variable: dialcode           Type: String   Width:   3 
+Variable: locadial           Type: Number   Width:   2   Dec: 0 
+Variable: get_pm             Type: String   Width:   2 
+Variable: pmcount            Type: Number   Width:   2   Dec: 0 
+Variable: cbname             Type: String   Width:  30 
+Variable: intro              Type: String   Width:   2 
+Variable: intros             Type: String   Width:   2 
+Variable: cbcode             Type: Number   Width:   1   Dec: 0 
+Variable: cbnote             Type: String   Width:  60 
+Variable: cbspname           Type: String   Width:  30 
+Variable: numkill            Type: Number   Width:   1   Dec: 0 
+Variable: killreason         Type: String   Width:  60 
+Variable: lang               Type: Number   Width:   1   Dec: 0 
+Variable: fstate             Type: Number   Width:   1   Dec: 0 
+Variable: agecheck           Type: String   Width:   3 
+Variable: agecheck2          Type: Number   Width:   1   Dec: 0 
+Variable: respage            Type: Number   Width:   3   Dec: 0 
+Variable: respage2           Type: String   Width:   3 
+Variable: state              Type: Number   Width:   1   Dec: 0 
+Variable: yrsinstate         Type: String   Width:   3 
+Variable: move0              Type: Number   Width:   1   Dec: 0 
+Variable: race               Type: Number   Width:   1   Dec: 0 
+Variable: raceoth            Type: String   Width: 200 
+Variable: hispanic           Type: Number   Width:   1   Dec: 0 
+Variable: ethnicity          Type: Number   Width:   1   Dec: 0 
+Variable: topeth             Type: Number   Width:   1   Dec: 0 
+Variable: imref              Type: Number   Width:   1   Dec: 0 
+Variable: imdream            Type: Number   Width:   1   Dec: 0 
+Variable: usborn             Type: Number   Width:   1   Dec: 0 
+Variable: mborn              Type: Number   Width:   1   Dec: 0 
+Variable: fborn              Type: Number   Width:   1   Dec: 0 
+Variable: granborn           Type: Number   Width:   1   Dec: 0 
+Variable: yrsinus            Type: String   Width:   3 
+Variable: born               Type: String   Width: 200 
+Variable: citizen            Type: Number   Width:   1   Dec: 0 
+Variable: ynocit             Type: Number   Width:   2   Dec: 0 
+Variable: langhome           Type: Number   Width:   1   Dec: 0 
+Variable: langhomeoth        Type: String   Width: 200 
+Variable: party1             Type: Number   Width:   1   Dec: 0 
+Variable: party1oth          Type: String   Width: 200 
+Variable: party2             Type: Number   Width:   1   Dec: 0 
+Variable: party3             Type: Number   Width:   1   Dec: 0 
+Variable: partlean           Type: Number   Width:   1   Dec: 0 
+Variable: party7             Type: Number   Width:   1   Dec: 0 
+Variable: ideo               Type: Number   Width:   1   Dec: 0 
+Variable: pselfrace          Type: Number   Width:   1   Dec: 0 
+Variable: selfamer           Type: Number   Width:   1   Dec: 0 
+Variable: selfrace           Type: Number   Width:   1   Dec: 0 
+Variable: selfst             Type: Number   Width:   1   Dec: 0 
+Variable: dcourt             Type: Number   Width:   1   Dec: 0 
+Variable: dresp              Type: Number   Width:   1   Dec: 0 
+Variable: pdiscrimus         Type: Number   Width:   1   Dec: 0 
+Variable: discrimus          Type: Number   Width:   1   Dec: 0 
+Variable: discrimst          Type: Number   Width:   1   Dec: 0 
+Variable: pfate1             Type: Number   Width:   1   Dec: 0 
+Variable: fate1              Type: Number   Width:   1   Dec: 0 
+Variable: fate1amt           Type: Number   Width:   1   Dec: 0 
+Variable: fate1sum           Type: Number   Width:   1   Dec: 0 
+Variable: fate2              Type: Number   Width:   1   Dec: 0 
+Variable: fate2amt           Type: Number   Width:   1   Dec: 0 
+Variable: fate2sum           Type: Number   Width:   1   Dec: 0 
+Variable: rotusstate         Type: Number   Width:   1   Dec: 0 
+Variable: belongus           Type: Number   Width:   1   Dec: 0 
+Variable: belongst           Type: Number   Width:   1   Dec: 0 
+Variable: belothus           Type: Number   Width:   1   Dec: 0 
+Variable: belothst           Type: Number   Width:   1   Dec: 0 
+Variable: outus              Type: Number   Width:   1   Dec: 0 
+Variable: outst              Type: Number   Width:   1   Dec: 0 
+Variable: ampride            Type: Number   Width:   1   Dec: 0 
+Variable: stpride            Type: Number   Width:   1   Dec: 0 
+Variable: stwel              Type: Number   Width:   1   Dec: 0 
+Variable: condition          Type: Number   Width:   1   Dec: 0 
+Variable: primewel           Type: Number   Width:   1   Dec: 0 
+Variable: pprimewel2         Type: Number   Width:   1   Dec: 0 
+Variable: primewel2          Type: Number   Width:   1   Dec: 0 
+Variable: primewelsum        Type: Number   Width:   1   Dec: 0 
+Variable: primehost          Type: Number   Width:   1   Dec: 0 
+Variable: pprimehost2        Type: Number   Width:   1   Dec: 0 
+Variable: primehost2         Type: Number   Width:   1   Dec: 0 
+Variable: primehostsum       Type: Number   Width:   1   Dec: 0 
+Variable: pfeelings          Type: Number   Width:   1   Dec: 0 
+Variable: feelang            Type: Number   Width:   1   Dec: 0 
+Variable: feelsad            Type: Number   Width:   1   Dec: 0 
+Variable: feelhap            Type: Number   Width:   1   Dec: 0 
+Variable: home1              Type: Number   Width:   1   Dec: 0 
+Variable: home2              Type: Number   Width:   1   Dec: 0 
+Variable: home3              Type: Number   Width:   1   Dec: 0 
+Variable: homesum            Type: Number   Width:   1   Dec: 0 
+Variable: move1              Type: Number   Width:   1   Dec: 0 
+Variable: move2              Type: Number   Width:   1   Dec: 0 
+Variable: move3              Type: Number   Width:   1   Dec: 0 
+Variable: movesum            Type: Number   Width:   1   Dec: 0 
+Variable: ftamer             Type: String   Width:   3 
+Variable: ftlat              Type: String   Width:   3 
+Variable: ftlegim            Type: String   Width:   3 
+Variable: ftilim             Type: String   Width:   3 
+Variable: ftmus              Type: String   Width:   3 
+Variable: ftafam             Type: String   Width:   3 
+Variable: ftasian            Type: String   Width:   3 
+Variable: ftwhite            Type: String   Width:   3 
+Variable: ftme               Type: String   Width:   3 
+Variable: complat            Type: Number   Width:   1   Dec: 0 
+Variable: warmlat            Type: Number   Width:   1   Dec: 0 
+Variable: complegim          Type: Number   Width:   1   Dec: 0 
+Variable: warmlegim          Type: Number   Width:   1   Dec: 0 
+Variable: compillim          Type: Number   Width:   1   Dec: 0 
+Variable: warmillim          Type: Number   Width:   1   Dec: 0 
+Variable: inc1               Type: Number   Width:   1   Dec: 0 
+Variable: inc2               Type: Number   Width:   1   Dec: 0 
+Variable: inc3               Type: Number   Width:   1   Dec: 0 
+Variable: inc4               Type: Number   Width:   1   Dec: 0 
+Variable: incsum             Type: Number   Width:   1   Dec: 0 
+Variable: educ               Type: Number   Width:   1   Dec: 0 
+Variable: sex                Type: Number   Width:   1   Dec: 0 
+Variable: close2             Type: Number   Width:   1   Dec: 0 
+Variable: resex              Type: Number   Width:   1   Dec: 0 
+Variable: scrnsecs           Type: Number   Width:   8   Dec: 0 
+Variable: mainsecs           Type: Number   Width:   8   Dec: 0 
+Variable: fulllength         Type: Number   Width:   8   Dec: 0 
+Variable: introsecs          Type: Number   Width:   8   Dec: 0 
+Variable: scrlength          Type: Number   Width:   8   Dec: 0 
+Variable: mainlength         Type: Number   Width:   8   Dec: 0 
+Variable: loi                Type: String   Width:   8 
+Variable: prob_01            Type: Number   Width:   1   Dec: 0 
+Variable: prob_02            Type: String   Width: 200 
+Variable: susint             Type: Number   Width:   1   Dec: 0
